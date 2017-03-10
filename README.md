@@ -48,6 +48,9 @@ user=Table('users',metadata,
 #output:
 [![screenshot_1489115274.png](https://s19.postimg.org/7c9qtfeb7/screenshot_1489115274.png)](https://postimg.org/image/3snt3mblb/)
 
+###Actual Data stored in SQLite db_engine: sqlalchemy_example.db
+[![screenshot_1489163026.png](https://s19.postimg.org/anghc9xrn/screenshot_1489163026.png)](https://postimg.org/image/tfscfuu5r/)
+
 - - - -
 - - - -
 # Reverse Engineering 
