@@ -6,3 +6,4 @@ SQLAlchemy miniproject
 
 The SQLAlchemy Object Relational Mapper presents a method of associating user-defined Python classes with database tables, and instances of those classes (objects) with rows in their corresponding tables.
 
+[![screenshot_14883s88948.png](https://www.tutorialspoint.com/turbogears/images/orm.jpg)
