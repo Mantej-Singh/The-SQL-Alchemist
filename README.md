@@ -47,3 +47,13 @@ user=Table('users',metadata,
           
 #output:
 [![screenshot_1489115274.png](https://s19.postimg.org/7c9qtfeb7/screenshot_1489115274.png)](https://postimg.org/image/3snt3mblb/)
+
+- - - -
+- - - -
+# Reverse Engineering 
+
+## Output1:
+[![screenshot_1489162712.png](https://s19.postimg.org/tolbs1hkj/screenshot_1489162712.png)](https://postimg.org/image/4vbrrdyjz/)
+
+## output2:
+[![screenshot_1489162366.png](https://s19.postimg.org/h4usi1ir7/screenshot_1489162366.png)](https://postimg.org/image/ciyo9ox7z/)
