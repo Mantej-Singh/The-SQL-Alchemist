@@ -27,13 +27,13 @@ db_engine = create_engine('sqlite:///sqlalchemy_example.db')
 
 #Create a Schema
 ```
-db_engine = create_engine('sqlite:///sqlalchemy_example.db')
-```
 user=Table('users',metadata,
           Column('ID',Integer,primary_key=True),
           Column('name', String(40)),
           Column('age', Integer)
           )
+```
+
           
 #output:
 [![screenshot_1489115274.png](https://s19.postimg.org/7c9qtfeb7/screenshot_1489115274.png)](https://postimg.org/image/3snt3mblb/)
