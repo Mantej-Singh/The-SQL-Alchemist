@@ -52,6 +52,20 @@ user=Table('users',metadata,
 - - - -
 # Reverse Engineering 
 
+###Create a DataFrame
+```
+import pandas as pd
+
+col=['ID','Name','Age']
+
+data=[(8,'Ironman',58),
+     (9,'Thor',300),
+     (10,'Hulk',55)]
+     
+df=pd.DataFrame(data,columns=col)
+```
+[![screenshot_1489162928.png](https://s19.postimg.org/84q6xumnn/screenshot_1489162928.png)](https://postimg.org/image/am1y546jz/)
+
 ## Output1:
 [![screenshot_1489162712.png](https://s19.postimg.org/tolbs1hkj/screenshot_1489162712.png)](https://postimg.org/image/4vbrrdyjz/)
 
