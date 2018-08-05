@@ -69,7 +69,7 @@ data=[(8,'Ironman',58),
      
 df=pd.DataFrame(data,columns=col)
 ```
-[![screenshot_1489162928.png](https://s19.postimg.org/84q6xumnn/screenshot_1489162928.png)](https://postimg.org/image/am1y546jz/)
+[![screenshot_1489162928.png](https://s19.postimg.org/84q6xumnn/screenshot_1489162928.png)](https://postimg.cc/image/am1y546jz/)
 
 ## Output1:
 [![screenshot_1489162712.png](https://s19.postimg.org/tolbs1hkj/screenshot_1489162712.png)](https://postimg.org/image/4vbrrdyjz/)
