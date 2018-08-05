@@ -18,26 +18,26 @@ Above, the two most significant front-facing portions of SQLAlchemy are the Obje
 - - - -
 
 
-##Install via pip
+## Install via pip
 ```
 pip install SQLAlchemy
 ```
 
 
 
-##Creating Engine
+## Creating Engine
 ```
 from sqlalchemy import create_engine
 ```
 
 
-##Connecting with SQLite3
+## Connecting with SQLite3
 ```
 db_engine = create_engine('sqlite:///sqlalchemy_example.db')
 ```
 - - - -
 
-#Create a Schema
+# Create a Schema
 ```
 user=Table('users',metadata,
           Column('ID',Integer,primary_key=True),
@@ -47,17 +47,17 @@ user=Table('users',metadata,
 ```
 
           
-#output:
+# output:
 [![screenshot_1489115274.png](https://s19.postimg.org/7c9qtfeb7/screenshot_1489115274.png)](https://postimg.org/image/3snt3mblb/)
 
-###Actual Data stored in SQLite db_engine: sqlalchemy_example.db
+### Actual Data stored in SQLite db_engine: sqlalchemy_example.db
 [![screenshot_1489163026.png](https://s19.postimg.org/anghc9xrn/screenshot_1489163026.png)](https://postimg.org/image/tfscfuu5r/)
 
 - - - -
 - - - -
 # Reverse Engineering 
 
-###Create a DataFrame
+### Create a DataFrame
 ```
 import pandas as pd
 
