@@ -48,10 +48,10 @@ user=Table('users',metadata,
 
           
 # output:
-[![screenshot_1489115274.png](https://s19.postimg.org/7c9qtfeb7/screenshot_1489115274.png)](https://postimg.cc/image/3snt3mblb/)
+[![screenshot-1489115274.png](https://i.postimg.cc/J4kTy75b/screenshot-1489115274.png)](https://postimg.cc/9rcPKhSM)
 
 ### Actual Data stored in SQLite db_engine: sqlalchemy_example.db
-[![screenshot_1489163026.png](https://s19.postimg.org/anghc9xrn/screenshot_1489163026.png)](https://postimg.cc/image/tfscfuu5r/)
+[![screenshot-1489163026.png](https://i.postimg.cc/xTN4p6QQ/screenshot-1489163026.png)](https://postimg.cc/Mvx5vbX3)
 
 - - - -
 - - - -
@@ -69,10 +69,11 @@ data=[(8,'Ironman',58),
      
 df=pd.DataFrame(data,columns=col)
 ```
-[![screenshot_1489162928.png](https://s19.postimg.org/84q6xumnn/screenshot_1489162928.png)](https://postimg.cc/image/am1y546jz/)
+[![screenshot-1489162928.png](https://i.postimg.cc/qMKCtrkK/screenshot-1489162928.png)](https://postimg.cc/ykVN5w36)
 
 ## Output1:
-[![screenshot_1489162712.png](https://s19.postimg.org/tolbs1hkj/screenshot_1489162712.png)](https://postimg.cc/image/4vbrrdyjz/)
+[![screenshot-1489162712.png](https://i.postimg.cc/5NCRKXmR/screenshot-1489162712.png)](https://postimg.cc/qzpwzMSs)
 
 ## output2:
-[![screenshot_1489162366.png](https://s19.postimg.org/h4usi1ir7/screenshot_1489162366.png)](https://postimg.cc/image/ciyo9ox7z/)
+[![screenshot-1489162366.png](https://i.postimg.cc/dtT6Bg9R/screenshot-1489162366.png)](https://postimg.cc/BX42ZYkt)
+
